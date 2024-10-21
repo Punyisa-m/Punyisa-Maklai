@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Punyisa</h1>
 <h3 align="center">Bachelor of Engineering, Department of Artificial Intelligence and Data Science from Thailand.</h3>
 
-- 🌱 I’m currently learning **Machine learning** and **Web development 
+- 🌱 I’m currently learning **Machine learning** and **Web development**
 
 - 📫 How to reach me **poonyisamm@gmail.com**
 
